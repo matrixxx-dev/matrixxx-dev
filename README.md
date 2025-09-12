@@ -3,5 +3,5 @@
 
 > [!CAUTION]
 > The repositories contained here are still under construction.
-> The aim is to complete the entire script collection by the end of this
-> month (07.25)
+> The aim is to complete the entire collection of scripts by the end of this
+> year (2025). Unfortunately, some delays have arisen.
