@@ -4,7 +4,7 @@
 > [!CAUTION]
 > The repositories are in the final test phase
 > (The aim is to test/complete the entire script collection by the end of
-> June 2026.)
+> June 2026 at the latest)
 
 - The parts of the live system
   - boot-device content
@@ -21,7 +21,8 @@
     - generated with [github: matrixxx-remaster][matrixxx-remaster]
 - Using the contents of the boot device and the files from the repository
   releases, it is possible to equip a USB stick with the `matrixxx live system`,
-  which can then be used to develop custom compilations
+  which can then be used to develop your own custom compilations
+  (read [matrixxx boot-device HowTo])
 
 
 [matrixxx-boot-device-content]:
@@ -30,3 +31,5 @@ https://github.com/matrixxx-dev/matrixxx-boot-device-content
 [matrixxx-kernel-build]: https://github.com/matrixxx-dev/matrixxx-kernel-build
 [matrixxx-os-build]: https://github.com/matrixxx-dev/matrixxx-os-build
 [matrixxx-remaster]: https://github.com/matrixxx-dev/matrixxx-remaster
+[matrixxx boot-device HowTo]:
+https://github.com/matrixxx-dev/matrixxx-boot-device-content/blob/main/readme-HowTo.md
