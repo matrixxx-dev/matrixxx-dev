@@ -15,12 +15,12 @@
   - the remaster base
     - generated with [github: matrixxx-remaster][matrixxx-remaster]
 
-### Build a boot device
+### Build a boot device (a basic system)
 - Using the contents of the boot device and the files from the repository
-  releases, it is possible to equip a USB stick with the `matrixxx live system`,
+  releases, it is possible to equip a USB stick (capacity of at least 32 GB -
+  ensures you have enough space to experiment) with the `matrixxx live system`,
   which can then be used to develop your own custom compilations
   (read [matrixxx boot-device HowTo])
-
 
 [matrixxx-boot-device-content]:
 https://github.com/matrixxx-dev/matrixxx-boot-device-content
