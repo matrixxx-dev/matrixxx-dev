@@ -17,10 +17,14 @@
 
 ### Build a boot device (a basic system)
 - Using the contents of the boot device and the files from the repository
-  releases, it is possible to equip a USB stick (with a capacity of at least
-  32 GB – so you have enough storage space to experiment) with the
+  releases, it is possible to equip a USB stick with the
   `matrixxx live system`, which can then be used to develop your own custom
   compilations (see [matrixxx boot-device HowTo])
+  - USB stick with a recommended capacity of at least 32 GB - so you have
+    enough storage space to experiment
+  - **Note:** The pure basic system only has a total size of 3.7 GB
+
+
 
 [matrixxx-boot-device-content]:
 https://github.com/matrixxx-dev/matrixxx-boot-device-content
