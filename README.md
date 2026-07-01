@@ -1,12 +1,7 @@
 # matrixxx (a D.I.Y linux live system)
 - a shell script collection
 
-> [!CAUTION]
-> The repositories are in the final test phase
-> (The aim is to test/complete the entire script collection by the end of
-> June 2026 at the latest)
-
-- The parts of the live system
+### The parts of the live system
   - boot-device content
     - contained in
       [github: matrixxx-boot-device-content][matrixxx-boot-device-content]
@@ -19,6 +14,8 @@
     - generated with [github: matrixxx-os-build][matrixxx-os-build]
   - the remaster base
     - generated with [github: matrixxx-remaster][matrixxx-remaster]
+
+### Build a boot device
 - Using the contents of the boot device and the files from the repository
   releases, it is possible to equip a USB stick with the `matrixxx live system`,
   which can then be used to develop your own custom compilations
