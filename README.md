@@ -23,6 +23,7 @@
   - USB stick with a recommended capacity of at least 32 GB - so you have
     enough storage space to experiment
   - **Note:** The pure basic system only has a total size of 3.7 GB
+    (includes 64-bit and 32-bit versions of the OS)
 
 
 
